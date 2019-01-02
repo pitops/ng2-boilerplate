@@ -2,6 +2,8 @@
 
 ## Description
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pitops/ng2-boilerplate.svg)](https://greenkeeper.io/)
+
 This is an Angular 2 Boilerplate featuring Gulp, SystemJS and Typescript. This package is **Angular 2 Beta 9** compatible.
 
 ### Features
